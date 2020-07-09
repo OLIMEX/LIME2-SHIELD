@@ -1,0 +1,3 @@
+(sym_lib_table
+ (lib (name Lime2-SHIELD_RevC)(type Legacy)(uri ${KIPRJMOD}/Lime2-SHIELD_RevC.lib)(options "")(descr ""))
+)
